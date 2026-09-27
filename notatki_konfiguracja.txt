@@ -1,0 +1,2 @@
+ls pokazuje zawartosc biezacego katalogu, a cat wyswietla tekst zapisany w pliku.
+push przekazuje zapisany commit na strone githuba, a commit zapisuje zmiany lokalnie.
